@@ -5,7 +5,7 @@
 - This project was designed with the goal of learning web accessibility practices for enhancing the user experience as well as search engine optimization
 - Accessebility on the web has grown more and more important over the history of content on the web. As a full-stack web development student, learning how to implement these best practices is one of the most important things to do. 
 
-##What i've learned
+## What i've learned
 
 - The given starter code for this project presented a functioning site using HTML and CSS. However, many aspects of the code were in need of proper refactoring to create a more accessible application
 - The first step was ensuring the HTML structure made logical sense. For example, ensuring that there was only one `<h1>` element present

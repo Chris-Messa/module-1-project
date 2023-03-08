@@ -12,4 +12,10 @@
 - The initial html for this project contained many `<div>` elements. Solely relying on `<div>` for content does work, but it causes a lot of issues for screen readers. To solve this issue, I changed innapropriate `<div>` tags to more semantic tags, such as `<header>` for the header of the page and `<nav>` for the navigation bar
 - Initially, the `<title>` of this web page simply read "website". This is not a descriptive title, and so a more appropriate title was given. The new title reflects the main idea of the web page, and includes the SEO keyword. These changes make the web page easier to understand both from the user perspective and from the perspective of a search engine. 
 - The images on the page contained no alt text. This means that when a user using a screen reading device comes across the image, there is no way for them to understand what the image is. Appropriate and descriptive alt text was added to solve this issue
-- Finally, redundant class names were reduced, and the overall amount of CSS code was dramatically decreased.
+- Redundant class names were reduced, and the overall amount of CSS code was dramatically decreased. Once certain elements were changed to more semantic tags, certain css classes became redundant. For example, the "footer" element had a "footer" class. Because the footer class applied to the element that contained the entire footer, it could be removed without affecting the footer style. 
+- Finally, appropriate comments were added to both the HTML and CSS files.  
+
+## Screenshots
+
+![Screenshot of working web page with all changes](urban-octo-telegram\assets\images\first-screenshot-Horiseon.png)
+

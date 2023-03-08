@@ -17,5 +17,4 @@
 
 ## Screenshots
 
-![Screenshot of working web page with all changes](urban-octo-telegram\assets\images\first-screenshot-Horiseon.png)
-
+![Screenshot of working web page with all changes](/urban-octo-telegram/assets/images/first-screenshot-Horiseon.png)

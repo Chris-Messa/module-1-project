@@ -16,7 +16,17 @@
 - Finally, appropriate comments were added to both the HTML and CSS files.  
 
 ## Screenshots
+<figure>
+  
+  ![An image of the deployed project](https://user-images.githubusercontent.com/39140839/224185109-f6674c60-4ef5-41a7-ba5c-1b1ea052fab7.jpg)
+  <figcaption align="center">Fig. 1 Example screenshot of working website</figcaption>
+  
+</figure>
 
-![first-screenshot-Horiseon](https://user-images.githubusercontent.com/39140839/224185109-f6674c60-4ef5-41a7-ba5c-1b1ea052fab7.jpg)
-![comment-example-screenshot](https://user-images.githubusercontent.com/39140839/224185091-432ff778-cf1d-4422-a288-01e50f9ff36d.jpg)
-
+<figure>
+  
+![Example screenshot of CSS comments](https://user-images.githubusercontent.com/39140839/224185091-432ff778-cf1d-4422-a288-01e50f9ff36d.jpg)
+  
+  <figcaption align="center">Fig. 2 Screenshot showing an example of the comments added to the stylesheet</figcaption>
+  
+</figure>
